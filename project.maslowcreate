@@ -1,0 +1,24 @@
+{
+    "atomType": "Molecule",
+    "name": "ke",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 791492,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9853587115666179,
+            "y": 0.5,
+            "uniqueID": 951423,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
